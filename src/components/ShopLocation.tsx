@@ -72,7 +72,7 @@ export function ShopLocation() {
                   size="lg"
                   onClick={() => window.open('https://www.google.com/maps/place/RKS+COOL+SERVICE/@19.1341483,72.9260064,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c75164a03477:0xf313e5408f49ed9!8m2!3d19.1341483!4d72.9285813!16s%2Fg%2F11n5bqgf_d?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D', '_blank')}
                 >
-                  <img src="src\assets\placeholder.png" alt="Google Maps" className="w-5 h-5 mr-2" />
+                  <img src="\assets\placeholder.png" alt="Google Maps" className="w-5 h-5 mr-2" />
                   Get Directions
                 </Button>
               </div>
